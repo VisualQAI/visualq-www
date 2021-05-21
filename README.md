@@ -1,2 +1,3 @@
-# StagingWWW
-Repository for public website at https://staging.visualqai.com
+# Basic TypeScript Example
+
+A simple [create-react-app](CRA-README.md) setup, showcasing one of the latest React-Bootstrap components!
