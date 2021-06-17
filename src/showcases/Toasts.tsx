@@ -17,7 +17,7 @@ const ToastsShowcase: React.FC = () => {
           <strong className="mr-auto">Bootstrap</strong>
           <small>11 mins ago</small>
         </Toast.Header>
-        <Toast.Body>Hello, world! This is a toast message.</Toast.Body>
+        <Toast.Body>This is a johnny test</Toast.Body>
       </Toast>
     </>
   );
