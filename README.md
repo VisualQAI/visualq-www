@@ -3,7 +3,7 @@
 ## Infrastructure
 - [ ] Add custom domain to web app
 - [ ] Add SSL PFX to web app
-- [ ] Add integration with ADO/Github Issues
+- [x] Add integration with ADO/Github Issues
 
 ## Home Page
 ![Home](https://github.com/VisualQAI/Website/blob/main/images/WebsiteScreenShots/home.png)
