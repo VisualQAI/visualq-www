@@ -1,5 +1,9 @@
 # Website
 
+## Infrastructure
+- [ ] Add custom domain to web app
+- [ ] Add SSL PFX to web app
+
 ## Home Page
 ![Home](https://github.com/VisualQAI/Website/blob/main/images/WebsiteScreenShots/home.png)
 
