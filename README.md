@@ -8,6 +8,7 @@
 - [x] Add "Title
 - [x] Add "Activate Button"
 - [x] Add "Learn More" button
+- [x] Add CI/CD pipeline for deployment to Azure static web apps
 - [ ] Item 1 needed
 - [ ] Item 2 needed
 - [ ] Item 3 needed
